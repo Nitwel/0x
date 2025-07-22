@@ -1,5 +1,5 @@
 {
-  "name": "0x",
+  "name": "@nitwel/0x",
   "version": "6.0.0",
   "description": "🔥 single-command flamegraph profiling 🔥",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidmarkclements/0x.git"
+    "url": "git+https://github.com/nitwel/0x.git"
   },
   "author": "David Mark Clements",
   "license": "MIT",
@@ -20,9 +20,9 @@
     "node": ">=8.5.0"
   },
   "bugs": {
-    "url": "https://github.com/davidmarkclements/0x/issues"
+    "url": "https://github.com/nitwel/0x/issues"
   },
-  "homepage": "https://github.com/davidmarkclements/0x#readme",
+  "homepage": "https://github.com/nitwel/0x#readme",
   "dependencies": {
     "ajv": "^8.8.2",
     "browserify": "^17.0.0",
